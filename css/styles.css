@@ -1,0 +1,26 @@
+body {   
+    background: #f9f5e5 !important;    
+}
+
+#icon {     
+    margin: 0 auto;
+    margin-top: 30vh;
+    border-bottom: solid 5px rgba(116, 14, 2, 0.9);    
+    width: 250px;
+    height: 250px;
+    border-radius: 10px 100px / 120px;
+    background: #c21500;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #f9d764, #c74e41);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #f9d764, #c74e41); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: aliceblue;  
+    box-shadow: 5px 10px 22px rgb(116, 14, 2);
+}
+
+#icon h2 {
+    padding-top: 40%;
+    text-shadow: 2px 2px 4px #6c6969;
+    font-family: 'Plaster', cursive;
+    font-size: 48px;
+}
+
+
